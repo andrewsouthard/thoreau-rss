@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thoreau Daily Journal</title>
+    <link>https://github.com/andrewsouthard/thoreau-journals</link>
+    <description>A daily entry from Henry David Thoreau's journals, delivered fresh each day.</description>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 22 Jun 2026 01:41:29 GMT</lastBuildDate>
+    <atom:link href="https://andrewsouthard.github.io/thoreau-rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Thoreau Journal - June 21, 1840</title>
+      <description>&lt;div id="readability-page-1" class="page"&gt;&lt;div&gt;&lt;p&gt;
+&lt;i&gt;June 21.&lt;/i&gt; I shall not soon forget my first night in a tent,—how
+the distant barking of dogs for so many still
+hours revealed to me the riches of the night. Who would
+not be a dog and bay the moon?
+&lt;/p&gt;&lt;p&gt;
+I never feel that I am inspired unless my body is also.
+It too spurns a tame and commonplace life. They are
+fatally mistaken who think, while they strive with their
+minds, that they may suffer their bodies to stagnate
+in luxury or sloth. The body is the first proselyte the
+Soul makes. Our life is but the Soul made known
+by its fruits, the body. The whole duty of man may
+be expressed in one line,—Make to yourself a perfect
+body.
+&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</description>
+      <pubDate>Thu, 10 Apr 2025 01:22:03 +0000</pubDate>
+      <guid>thoreau-1840-06-21-259</guid>
+      <link>https://github.com/andrewsouthard/thoreau-journals</link>
+    </item>
+  </channel>
+</rss>
